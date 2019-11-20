@@ -1,0 +1,417 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    template: fs_template.tex
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+header_color_html: "156A9B"
+
+
+name: Frederick Solt
+address1: "Department of Political Science"
+address2: "University of Iowa"
+address3: "341 Schaeffer Hall"
+address4: "Iowa City, IA 52242"
+email: frederick-solt@uiowa.edu
+website: "https://fsolt.org"
+twitter: fredericksolt
+github: fsolt
+
+appointment:
+  -
+    place: University of Iowa
+    items:
+      - 
+        item: Associate Professor, Department of Political Science
+        date: 2016–Present
+      - 
+        item: Assistant Professor, Department of Political Science
+        date: 2012-2016
+  - 
+    place: Southern Illinios University at Carbondale
+    items:
+      - 
+        item: Assistant Professor, Departments of Political Science and Sociology
+        date: 2006-2012. (Tenure and promotion to Associate Professor approved, Spring 2012)
+      - 
+        item: Visiting Assistant Professor, Deparment of Political Science
+        date: Fall 2005
+  - 
+    place: Mount Holyoke College
+    items:
+      - 
+        item: Visiting Assistant Professor, Department of Political Science
+        date: 2004-2005
+  - 
+    place: Rice University
+    items:
+      - 
+        item: Lecturer, Department of Political Science
+        date: 2003-2004
+        
+education:
+  -
+    degree: Ph.D.
+    place: "Department of Political Science, University of North Carolina at Chapel Hill"
+    date: December 2003
+  -
+    degree: M.A./J.D.
+    place: "Institute of Latin American Studies and School of Law, University of Texas at Austin"
+    date: May 1998
+  -
+    degree: B.S.E.
+    place: "Department of Mechanical and Aerospace Engineering, Princeton University"
+    date: 1994
+
+bibliography: /Users/fredsolt/Library/texmf/bibtex/bib/MELibrary.bib
+csl: /Users/fredsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ibid.csl
+
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+library("dplyr")
+```
+
+\vspace{-.75cm}
+# External Grants and Fellowships
+\vspace{-.6cm}
+\ind Collaborative Researcher, Korean Studies Promotion Service, Academy of Korean Studies, "Korea Inequality Research Lab," (Principal Investigator: Jong-sung You, Gachon University), December 2018 to December 2023.
+
+\ind Principal Investigator, National Science Foundation (SES-1533746) Grant Award of \$228,809.00 to the University of Iowa, "Standardized World Income Inequality Database," August 2015 to July 2019.
+
+\ind Fellow, Center for the Study of Democratic Politics, Princeton University, 2010-2011.
+
+\ind Fulbright García Robles (IIE) Fellowship, 2001-2002. 
+
+\vspace{-.2cm}
+# Referreed Publications
+\vspace{-.6cm}
+\ind Ritter, Michael, and Frederick Solt.  2019.  "Economic Inequality and Campaign Participation."  _Social Science Quarterly_ 100(3):678-688.
+
+\ind Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong `Erico' Yu.  2017. "Economic Inequality and Class Consciousness." _Journal of Politics_ 79(3):1079-1083.
+
+\ind Kim, Mi-son, and Frederick Solt.  2017.  "The Dynamics of Party Relabeling: Why Do Parties Change Names?"  _Party Politics_ 23(4):437-447.
+
+\ind Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong `Erico' Yu.  2016. "Economic Inequality and Belief in Meritocracy in the United States." _Research \& Politics_ 3(4):1-7.
+
+\ind Solt, Frederick.  2016.  "The Standardized World Income Inequality Database."  _Social Science Quarterly_ 97(5):1267-1281.
+
+\ind Solt, Frederick.  2015.  "Economic Inequality and Nonviolent Protest."  _Social Science Quarterly_ 96(5):1314-1327.
+
+\ind Solt, Frederick, Dongkyu Kim, Kyu Young Lee, Spencer Williardson, and Seokdong Kim.  2014.  "Neoliberal Reform and Protest in Latin American Democracies: A Replication and Correction."  _Research \& Politics_ 1(2):1-13.
+
+\ind Solt, Frederick.  2014.  "Reversing the Arrow? Economic Inequality's Effect on Religiosity."  In _Religion and Inequality in America: Research and Theory on Religion's Role in Stratification_, Lisa Keister and Darren Sherkat, eds., Cambridge: Cambridge University Press.
+
+\ind Solt, Frederick.  2012.  "The Social Origins of Authoritarianism."  _Political Research Quarterly_ 65(4):703-713.
+
+\ind Solt, Frederick.  2011.  "Diversionary Nationalism: Economic Inequality and the Formation of National Pride."  _Journal of Politics_ 73(3):821-830.
+
+\ind Solt, Frederick, Philip Habel, and J. Tobin Grant.  2011.  "Economic Inequality, Relative Power, and Religiosity."  _Social Science Quarterly_ 92(2):447-465.
+
+\ind Solt, Frederick.  2010.  "Does Economic Inequality Depress Electoral Participation? Testing the Schattschneider Hypothesis."  _Political Behavior_ 32(2):285-301.
+
+\ind Solt, Frederick.  2009.  "Standardizing the World Income Inequality Database."  _Social Science Quarterly_ 90(2):231-242.
+
+\ind Solt, Frederick.  2008.  "Economic Inequality and Democratic Political Engagement."  _American Journal of Political Science_ 52(1):48-60.
+
+\ind Searing, Donald, Frederick Solt, Pamela Johnston Conover, and Ivor Crewe.  2007.  "Public Discussion in the Deliberative System: Does It Make Better Citizens?"  _British Journal of Political Science_ 37(4):587-618.
+
+\ind Huber, Evelyne, and Frederick Solt.  2004.  "Successes and Failures of Neoliberalism in Latin America."  _Latin American Research Review_ 39(3):150-164.
+
+\ind Solt, Frederick.  2004.  "Civics or Structure?  Revisiting the Origins of Democratic Quality in the Italian Regions."  _British Journal of Political Science_ 34(1):123-135. 
+ 
+\ind Solt, Frederick.  2004.  "Electoral Competition, Legislative Pluralism, and Institutional Development: Evidence from Mexico's States."  _Latin American Research Review_ 39(1):155-167.
+
+\ind Solt, Frederick.  2001.  "Institutional Effects on Democratic Transitions: Neo-Patrimonial Regimes in Africa, 1989-1994."  _Studies in Comparative International Development_ 36(2):82-91. 
+
+# Invited Publications
+\vspace{-.6cm}
+\ind Gracey, Kellen, and Frederick Solt.  2017.  "Religion and Politics." SAGE Handbook of Political Behavior. Thousand Oaks, CA: Sage Publications, pp.703-704.
+ 
+\ind Solt, Frederick.  2015.  "On the Assessment and Use of Cross-National Income Inequality Datasets."  _Journal of Economic Inequality_ 13(4):683-691.
+
+\ind Solt, Frederick. 2014.  "Version 5.0 of the Standardized World Income Inequality Database."  _APSA Comparative Politics Newsletter_ 24(2):18.
+
+\pagebreak
+# Selected Working Papers
+\vspace{-.6cm}
+\ind Solt, Frederick.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."
+
+\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion."
+
+\ind Kim, Mi-son, and Frederick Solt.  "The Electoral Consequences of Party Relabeling."
+
+\ind Solt, Frederick, and Rachel Torres.  "Income Inequality and Support for Labor Unions."
+
+\section{Datasets}
+\ind Solt, Frederick. 2019. Standardized World Income Inequality Database, Version 8.2. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
+\ind Solt, Frederick. 2019. Standardized World Income Inequality Database, Version 8.1. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
+\ind Solt, Frederick. 2019. Standardized World Income Inequality Database, Version 8.0. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
+\ind Solt, Frederick. 2018. Standardized World Income Inequality Database, Version 7.1. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2018. Standardized World Income Inequality Database, Version 7.0. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2018. Standardized World Income Inequality Database, Version 6.2. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2017. Standardized World Income Inequality Database, Version 6.1. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2016. Standardized World Income Inequality Database, Version 6.0. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2016. Standardized World Income Inequality Database, Version 5.1. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2014. Standardized World Income Inequality Database, Version 5.0. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2014. Standardized World Income Inequality Database, Version 4.1. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2013. Standardized World Income Inequality Database, Version 4.0. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2012. Standardized World Income Inequality Database, Version 3.1. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2010. Standardized World Income Inequality Database, Version 3.0. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2009. Standardized World Income Inequality Database, Version 2.0. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2008. Standardized World Income Inequality Database, Version 1.1. \url{http://hdl.handle.net/1902.1/11992}
+
+\ind Solt, Frederick. 2008. Standardized World Income Inequality Database, Version 1.0. \url{http://hdl.handle.net/1902.1/11992}
+
+
+\section{Published Software}
+\ind Solt, Frederick.  2017. ukds: Reproducible Data Retrieval from the UK Data Service. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=ukds}.
+
+\ind Solt, Frederick.  2017. ropercenter: Reproducible Data Retrieval from the Roper Center Data Archive. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=ropercenter}.
+
+\ind Solt, Frederick, and Kellen Gracey.  2016. icpsrdata: Reproducible Data Retrieval from the ICPSR Archive. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=icpsrdata}.
+
+\ind Solt, Frederick, and Yue Hu.  2016. pewdata: Reproducible Retrieval of Pew Research Center Datasets. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=pewdata}.
+
+\ind Solt, Frederick, and Yue Hu.  2015. dotwhisker: Dot-and-Whisker Plots of Regression Results. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=dotwhisker}.
+
+\ind Solt, Frederick, and Yue Hu.  2015. interplot: Plot the Coefficients of Variables in Interaction Terms. The Comprehensive R Archive Network (CRAN).  \url{http://CRAN.R-project.org/package=interplot}.
+
+\section{Conference Presentations and Invited Talks}
+\ind "Modeling Dynamic Comparative Public Opinion," Southern Political Science Association Annual Meeting, San Juan, PR, January 10-11, 2020.
+
+\ind "The Consequences of Party Relabeling,'' with Mi-son Kim, Southern Political Science Association Annual Meeting, San Juan, PR, January 10-11, 2020.
+
+\ind "The Standardized World Income Inequality Database: The Korean Case,'' Korea Inequality Research Lab Annual Workshop, Seoul, South Korea, August 26, 2019.
+
+\ind "Bayesian Hierarchical IRT for Dynamic Comparative Public Opinion,'' St. Louis Area Methods Meeting, Carbondale, IL, April 12, 2019.
+
+\ind "Economic Inequality, Demand for Redistribution, and Redistributive Outcomes: Building the Empirical Foundations for Dynamic Comparative Research,'' Keynote Address, Politics and Inequality across Nations and Time: Theoretical and Empirical Approaches, Polish Academy of Sciences, Warsaw, Poland, December 12, 2018.
+
+\ind "How to Estimate Cross-Nationally and Longitudinally Comparable Measures of Public Opinion from the Mess of Survey Data You Found Online,'' ECPR Summer Methods School, Central European University, Budapest, Hungary, August 9, 2017.
+
+\ind "Economic Inequality and Campaign Participation,''  with Michael Ritter, Workshop on Political Participation and Political Inclusion, Universitat Aut\`onoma de Barcelona, June 8, 2017.
+
+\ind "Measuring Protest Across Countries and Over Time,'' American Political Science Association, Philadelphia, PA, September 1-4, 2016.
+
+\ind "Economic Inequality and Belief in Meritocracy in the United States,'' Midwest Political Science Association, Chicago, IL, April 7-10, 2016.
+
+\ind "Dynamic Comparative Public Opinion,'' Midwest Political Science Association, Chicago, IL, April 7-10, 2016.
+
+\ind "Economic Inequality, Intergenerational Mobility, and Belief in Meritocracy in the United States,'' Southern Political Science Association, San Juan, PR, January 7-9, 2016.
+
+\ind "Measuring Political Protest Across Latin America,'' Latin American Studies Association, San Juan, PR, May 27-30, 2015.
+
+\ind "The Standardized World Income Inequality Database,'' International Monetary Fund, Research Department, Washington, DC, December 8-9, 2014.
+
+\ind "Dynamic Comparative Public Opinion,'' American Political Science Association, Washington, DC, August 27-31, 2014.
+
+\ind "The Standardized World Income Inequality Database,''  Society for Economic Measurement, Chicago, IL, August 18-20, 2014.
+
+\ind "Dynamic Comparative Public Opinion,'' European Political Science Association, Edinburgh, UK, June 18-22, 2014.
+
+\ind "The Dynamics of Party Relabeling: Why Do Parties Change Names?'' with Mi-son Kim, Midwest Political Science Association, Chicago, IL, April 3-6, 2014.
+
+\ind "Free Trade and Working Class Political Attitudes: A Micro-Analysis of Power Resources and Revisionist Theories,'' with Dongkyu Kim and Mi-son Kim, Midwest Political Science Association, Chicago, IL, April 3-6, 2014.
+
+\ind "Economic Inequality and Campaign Participation,'' with Michael Ritter, Iowa Workshop on Inequality, Politics, and Policy, Iowa City, IA, February 20-21, 2014. 
+
+\ind "The Standardized World Income Inequality Database,'' United Nations Department of Economic and Social Affairs, New York, NY, September 18, 2013.
+
+\ind "Economic Inequality and External Efficacy: Citizen Perceptions of Government Responsiveness in Comparative Perspective,'' with Scott D. McClurg, Midwest Political Science Association, Chicago, IL, April 10-14, 2013. 
+
+\ind "Economic Inequality and Democratic Responsiveness,'' Oxford University, Oxford, UK, February 26, 2013.
+
+\ind "Economic Inequality, Public Opinion, and Democratic Policy Responsiveness,'' Conference on the Politics of Income Inequality, University of Tennessee, Knoxville, TN, October 18-19, 2012.
+ 
+\ind "Reversing the Arrow? Economic Inequality's Effect on Religiosity,'' Duke Conference on Religion and Stratification, Duke University, Durham, NC, September 13-14, 2012.
+
+\ind "Relative Power, Public Opinion, and Democratic Policy Responsiveness,'' Center for the Study of Democratic Politics, Princeton, NJ, April 21, 2011.
+
+\ind "Economic Inequality, Relative Power, and the Politics of Abortion in Comparative Perspective,'' with Merike Blofield, Midwest Political Science Association, Chicago, IL, March 31-April 3, 2011.
+
+\ind Participant, Workshop on the Connection Between Economic Crisis and Inequality, Princeton Institute for International and Regional Studies, Princeton, NJ, March 5-6, 2011.
+
+\ind "Measuring Economic Inequality,'' Conference on Equality-Oriented Policies, Hertie School of Governance, Berlin, Germany, December 15-17, 2010.
+
+\ind "Diversionary Nationalism,'' Center for the Study of Democratic Politics, Princeton, NJ, September 30, 2010.
+
+\ind "Diversionary Nationalism: Economic Inequality and the Formation of National Pride,'' American Sociological Association, Boston, MA, August 1-4, 2008.
+
+\ind "Gendering Relative Power: Intersectionality and Political Engagement in the Advanced Democracies,'' with Celeste Montoya, Western Political Science Association, San Diego, CA, March 20-22, 2008.
+
+\ind "Community Heterogeneity and Political Engagement,'' with Scott D. McClurg, American Political Science Association, Chicago, IL, August 30-September 2, 2007.
+
+\ind "Do Strong Commitments To Human Rights Promote Excessive Individualism, Ethical Egoism, Anti-Social Attitudes, and Political Disengagement?'' with Donald Searing and Pamela Johnston Conover, American Political Science Association, Chicago, IL, August 30-September 2, 2007.
+
+\ind "The Social Origins of Authoritarianism: Economic Inequality and Political Culture Around the World,'' Midwest Political Science Association, Chicago, IL, April 12-15, 2007.
+
+\ind "State Withdrawal and Ethnic Demobilization,'' with Stephen Bloom, Midwest Political Science Association, Chicago, IL, April 12-15, 2007.
+
+\ind "Diversionary Nationalism: Economic Inequality and the Formation of National Pride,'' Midwest Political Science Association, Chicago, IL, April 20-23, 2006.
+
+\ind "Income Inequality and Democratic Political Engagement,'' Midwest Political Science Association, Chicago, IL, April 15-18, 2004. 
+
+\ind "Evaluating the National Effects of Subnational Institutions in Mexico: The 2003 Federal Election,'' Conference on Mexico's 2003 Midterm Elections: Implications for the LIX Legislature and Party Consolidation, University of Texas, Austin, TX, September 15-16, 2003. 
+ 
+\ind "Explaining the Quality of New Democracies: Actors, Institutions, and Structure in Mexico's States,'' American Political Science Association, Philadelphia, PA, August~28-31, 2003. 
+ 
+\ind "Actor-Centered, Institutional, and Structural Influences on the Quality of New Democracies: Evidence from the Mexican States,'' Midwest Political Science Association, Chicago, IL, April 3-6, 2003. 
+ 
+\ind "Mexico's Uneven Transition to Democracy: Evidence from the States, 1988-2000,'' Latin American Studies Association, Dallas, TX, March 26-29, 2003. 
+ 
+\ind "State Electoral Systems, Party Pluralism, and Legislative Institutionalization: Evidence from Mexico,'' NSF Graduate Workshop on Democracy, University of North Carolina, Chapel Hill, NC, March 21, 2002. 
+
+\ind "Political Participation in the Mexican States: The 2000 Presidential Election,'' Latin 
+American Studies Association, Washington, D.C., September 6-8, 2001.  
+ 
+\ind "The Origins of Democratic Quality and Political Participation: Revisiting the Italian Case,'' Midwest Political Science Association, Chicago, IL, April 19-22, 2001.  
+ 
+\ind "La Apertura: The Opening of the Venezuelan Oil Industry to Foreign Investment in the 1990s,'' Institute of Latin American Studies Student Association, Austin, TX, February 
+27-28, 1998. 
+
+# Awards and Internal Grants
+\ind "Dynamic Comparative Public Opinion,'' PI, Political Science Department Small Grant, \$2500, Summer 2016.
+
+\ind "Updating the Standardized World Income Inequality Database,'' PI. Political Science Department Small Grant, \$2400, Summer 2015.
+
+\ind "Measuring Comparative Public Opinion,'' PI, Political Science Department Small Grant, \$2400, Summer 2013.
+
+\ind "Updating the Standardized World Income Inequality Database,'' PI. Old Gold Fellowship, \$6000, Summer 2013.
+
+\ind "Updating the Standardized World Income Inequality Database,'' PI. Political Science Department Small Grant, \$3600, Summer 2012.
+
+\ind Nominated for the Gabriel A. Almond Award for Best Dissertation in Comparative Politics by the Department of Political Science, University of North Carolina at Chapel Hill, 2004. 
+
+\ind UNC Graduate School Dissertation Completion Fellowship, 2002-2003. 
+ 
+\ind UNC Graduate School Off-Campus Dissertation Research Award, Spring 2002. 
+\ind Earle Wallace Award for Outstanding Graduate Student Teaching, Department of Political Science, University of North Carolina at Chapel Hill, 2000-2001.  
+ 
+\ind UNC Institute of Latin American Studies Summer Field Research Fellowship, 2000.  
+ 
+\ind Tinker Foundation Summer Research Travel Grant, 2000.  
+ 
+\ind National Science Foundation Democracy and Democratization Traineeship, University of North Carolina at Chapel Hill, 1999-2000.  
+ 
+\ind Endowed Presidential Scholarship, University of Texas at Austin, 1996-1998.  
+ 
+\ind UT Institute of Latin American Studies Scholarship, 1996-1997.  
+ 
+\ind Competitive Academic Scholarship, University of Texas at Austin, 1995-1998. 
+
+<!-- \section{Courses Taught at University of Iowa} -->
+<!-- \textit{Undergraduate}\\ -->
+<!-- \begin{footnotesize} -->
+<!-- \begin{ncolumn}{2} -->
+<!-- Introduction to Comparative Politics		& Latin American Politics\\ -->
+<!-- Introduction to Politics of Class and Inequality					& Politics of Inequality\\ -->
+<!-- \end{ncolumn} -->
+<!-- \end{footnotesize} -->
+
+<!-- \textit{Graduate}\\ -->
+<!-- \begin{footnotesize} -->
+<!-- \begin{ncolumn}{2} -->
+<!-- Politics of Inequality					& Comparative Political Behavior\\ -->
+<!-- Comparative Public Opinion				& Computational Methods for Comparative Politics -->
+<!-- \end{ncolumn} -->
+<!-- \end{footnotesize} -->
+
+
+# Academic Service and Public Outreach
+Reviewer for the National Science Foundation, European Research Council, \textit{American Political Science Review}, \textit{American Journal of Political Science}, \textit{Journal of Politics}, \textit{British Journal of Political Science}, \textit{Acta Politica}, \textit{African Journal of Political Science and International Relations}, \textit{American Journal of Sociology}, \textit{American Political Research}, \textit{American Sociological Review}, \textit{British Journal of Sociology}, \emph{Comparative European Politics}, \textit{Comparative Politics}, \textit{Comparative Political Studies}, \textit{Comparative Sociology}, \textit{Cooperation \& Conflict}, \textit{Cross-Cultural Research}, \textit{Development Studies Research}, \textit{Economics of Transition}, \textit{Electoral Studies}, \textit{European Journal of Political Economy}, \textit{European Journal of Political Research}, \textit{European Political Science Review}, \textit{Globalizations}, \textit{Government \& Opposition}, \textit{International Journal of Public Opinion Research},\textit{Japanese Journal of Political Science}, \textit{Journal for the Scientific Study of Religion}, \textit{Latin American Research Review}, \textit{Oxford Economic Papers}, \textit{Partecipazione e Conflitto}, \textit{PLoS One}, \textit{Political Behavior}, \textit{Political Psychology}, \textit{Political Research Quarterly}, \textit{Political Science Research and Methods}, \textit{Political Studies}, \textit{Poverty \& Public Policy}, \textit{Public Choice}, \textit{Review of Income and Wealth}, \textit{Social Problems}, \textit{Social Science Journal}, \textit{Social Science Quarterly}, \textit{Social Science Research}, \textit{Socio-Economic Review}, \textit{Sociological Inquiry}, \textit{Studies in Comparative International Development}, \textit{Urban Affairs Review}, \textit{World Development}, and \textit{World Politics}.
+
+\ind Consultant to International Monetary Fund, Research Department, 2014-2015.
+
+\ind Consultant to United Nations, Department of Economic and Social Affairs, 2013-2015.
+
+\ind Lijphart/Przeworski/Verba Dataset Award Committee, Comparative Politics Section, American Political Science Association, 2016-2018.
+
+\ind Director of Graduate Studies, Department of Political Science, University of Iowa, 2019-Present.
+
+\ind Executive Committee, Department of Political Science, University of Iowa, 2019-Present.
+
+\ind Graduate Studies Committee, Department of Political Science, University of Iowa, 2012-Present.
+
+\ind Chair, Third-Year Review Committee, Department of Political Science, University of Iowa, Spring 2019.
+
+\ind Speaker Series Co-Coordinator, Department of Political Science, University of Iowa, 2018-2019.
+
+\ind Chair, Five-Year Review Committee, Department of Political Science, University of Iowa, Spring 2018.
+
+\ind Chair, Computing and Technology Committee, Department of Political Science, University of Iowa, 2016-2019.
+
+\ind Political Methodology Subfield Coordinator, Department of Political Science, University of Iowa, 2015-2016.
+
+\ind Director, Inequality Working Group, Obermann Center for Advanced Studies, University of Iowa, 2013-2014.
+
+\ind Executive Committee, Department of Political Science, University of Iowa, 2012-2013.
+
+\ind Graduate Studies Committee, Department of Political Science, Southern Illinois University, 2006-2012.
+
+\ind Executive Committee, Department of Political Science, Southern Illinois University, 2006-2008.
+
+\ind Undergraduate Studies Committee, Department of Political Science, Southern Illinois University, 2007-2008.
+
+\ind Discussant, State of the Field Roundtable: Challenges and Opportunities in Public Opinion Research, Southern Political Science Association, San Juan, PR, January 9-10, 2020.
+
+\ind Discussant, Panel on Political Participation Across the World, Southern Political Science Association, San Juan, PR, January 9-10, 2020.
+
+\ind Discussant, Panel on Agendas and Inequality: Managerialism and the Influence of the Wealthy, Midwest Political Science Association, Chicago, IL, April 7-10, 2016.
+
+\ind Discussant, Panel on Predicting Satisfaction with Government, Midwest Political Science Association, Chicago, IL, April 7-10, 2016.
+
+\ind Discussant, Panel on Representation and Inequality, Southern Political Science Association, San Juan, PR, January 7-9, 2016.
+
+\ind Discussant, Panel on Public Opinion Outside the USA, Midwest Political Science Association, Chicago, IL, April 16-19, 2015.
+
+\ind Chair, Panel on Civil Society/Political Society: Social Movements, Political Parties, and the State, Latin American Studies Association, San Juan, PR, May 27-30, 2015.
+
+\ind Discussant, Panel on Public Opinion Over Redistributive and Related Economic Policies, American Political Science Association, Washington, DC, August 27-31, 2014.
+
+\ind Chair, Panel on Perceptions of Governmental Legitimacy and Accountability, Midwest Political Science Association, Chicago, IL, April 3-6, 2014.
+
+\ind Co-organizer, Iowa Workshop on Inequality, Politics, and Policy, Iowa City, IA, February 20-21, 2014.
+
+\ind Discussant, Panel on Does Politics Drive Inequality?, Midwest Political Science Association, Chicago, IL, April 10-14, 2013. 
+
+\ind Discussant, Panel on Methods in Comparative Political Behavior, Midwest Political Science Association, Chicago, IL, March 31-April 3, 2011.
+
+\ind Discussant, Panel on Hard Times and Economic Voting, American Political Science Association, Washington, DC, September 2-5, 2010.
+
+\ind Distinguished Contribution to Scholarship (Book) Award Committee, Political Sociology Section, American Sociological Association, 2009.
+
+\ind Chair and Discussant, Political Sociology Section Roundtable on Public Opinion, American Sociological Association, San Francisco, CA, August 8-11, 2009.
+
+\ind Discussant, Panel on Political Participation in Comparative Perspective, Midwest Political Science Association, Chicago, IL, April 12-15, 2007.
+
+\ind Discussant, Panel on Democratic Equity and Economic Development, Midwest Political Science Association, Chicago, IL, April 20-23, 2006.
+ 
+\ind Discussant, Panel on Political Participation and Mobilization in Democracies, Midwest Political Science Association, Chicago, IL, April 19-22, 2001.  
+ 
+\ind Graduate Student Representative, Comparative Politics Search Committee (Eastern Europe), Department of Political Science, University of North Carolina at Chapel Hill, 2000-2001.  
+
+\ind Public Lecture. "Economic Inequality and Its Political Causes and Consequences,'' Whiteside Forum, Morrison, IL, April 15, 2016.
+
+\ind Public Lecture, "Economic Inequality and Democratic Performance Around the World,'' Iowa City Downtown Rotary Club, Iowa City, IA, April 6, 2015.
+
+\ind Public Lecture, "Economic Inequality and Democratic Performance Around the World,'' Iowa City Foreign Relations Council, Iowa City, IA, September 26, 2013.
+
+\ind Guest, Episode on "Globalization and the World Economy,'' \textit{WorldCanvass}, Iowa Public Radio, December 7, 2012.
+
+\ind Chief Notes Editor, \textit{Texas Law Review}, 1996-1997.
