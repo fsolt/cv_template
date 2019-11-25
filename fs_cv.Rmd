@@ -34,7 +34,7 @@ appointment:
         item: Assistant Professor, Departments of Political Science and Sociology
         date: 2006-2012 (tenure and promotion to Associate Professor approved, Spring 2012)
       - 
-        item: Visiting Assistant Professor, Deparment of Political Science
+        item: Visiting Assistant Professor, Department of Political Science
         date: Fall 2005
   - 
     place: Mount Holyoke College
