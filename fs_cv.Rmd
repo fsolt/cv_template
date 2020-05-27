@@ -145,6 +145,8 @@ library("dplyr")
 
 # Datasets
 \vspace{-.65cm}
+\ind Solt, Frederick. 2020. Standardized World Income Inequality Database, Version 8.3. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
 \ind Solt, Frederick. 2019. Standardized World Income Inequality Database, Version 8.2. \url{https://doi.org/10.7910/DVN/LM4OWF}
 
 \ind Solt, Frederick. 2019. Standardized World Income Inequality Database, Version 8.1. \url{https://doi.org/10.7910/DVN/LM4OWF}
