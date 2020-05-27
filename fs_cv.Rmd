@@ -86,6 +86,8 @@ library("dplyr")
 \vspace{-.2cm}
 # Refereed Publications
 \vspace{-.65cm}
+\ind Solt, Frederick.  2020.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."  _Social Science Quarterly_ 101(3):1183-1199.
+
 \ind Ritter, Michael, and Frederick Solt.  2019.  "Economic Inequality and Campaign Participation."  _Social Science Quarterly_ 100(3):678-688.
 
 \ind Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong `Erico' Yu.  2017. "Economic Inequality and Class Consciousness." _Journal of Politics_ 79(3):1079-1083.
@@ -135,8 +137,6 @@ library("dplyr")
 \pagebreak
 # Selected Working Papers
 \vspace{-.65cm}
-\ind Solt, Frederick.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."
-
 \ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion."
 
 \ind Kim, Mi-son, and Frederick Solt.  "The Electoral Consequences of Party Relabeling."
