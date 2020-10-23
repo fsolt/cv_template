@@ -25,10 +25,13 @@ appointment:
         item: Associate Professor, Department of Political Science
         date: 2016–Present
       - 
+        item: Director of Graduate Studies, Department of Political Science
+        date: 2019-Present
+      - 
         item: Assistant Professor, Department of Political Science
         date: 2012-2016
   - 
-    place: Southern Illinios University at Carbondale
+    place: Southern Illinois University at Carbondale
     items:
       - 
         item: Assistant Professor, Departments of Political Science and Sociology
@@ -75,6 +78,8 @@ library("dplyr")
 <!-- \vspace{-.25cm} -->
 # External Grants and Fellowships
 \vspace{-.65cm}
+\ind Senior Fellow, Cluster of Excellence "The Politics of Inequality," University of Konstanz, Summer 2021.
+
 \ind Collaborative Researcher, Korean Studies Promotion Service, Academy of Korean Studies, "Korea Inequality Research Lab," (Principal Investigator: Jong-sung You, Gachon University), December 2018 to December 2023.
 
 \ind Principal Investigator, National Science Foundation (SES-1533746) Grant Award of \$228,809.00 to the University of Iowa, "Standardized World Income Inequality Database," August 2015 to July 2019.
@@ -132,12 +137,16 @@ library("dplyr")
  
 \ind Solt, Frederick.  2015.  "On the Assessment and Use of Cross-National Income Inequality Datasets."  _Journal of Economic Inequality_ 13(4):683-691.
 
+\pagebreak
 \ind Solt, Frederick. 2014.  "Version 5.0 of the Standardized World Income Inequality Database."  _APSA Comparative Politics Newsletter_ 24(2):18.
 
-\pagebreak
 # Selected Working Papers
 \vspace{-.65cm}
-\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion."
+\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion." Invited to revise and resubmit, _Political Analysis_.  https://osf.io/preprints/socarxiv/d5n9p/
+
+\ind Tai, Yuehong 'Cassandra', Hu Yue, and Frederick Solt, "Public Support for Democracy and Regime Survival."
+
+\ind Solt, Frederick, Byung-Deuk Woo, and Lindsey Allemang, "The EGR Database: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles"
 
 \ind Kim, Mi-son, and Frederick Solt.  "The Electoral Consequences of Party Relabeling."
 
@@ -184,6 +193,10 @@ library("dplyr")
 \pagebreak
 # Published Software
 \vspace{-.65cm}
+\ind Solt, Frederick.  2020. `DCPO`: Dynamic Comparative Public Opinion. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=DCPO}.
+
+\ind Solt, Frederick.  2020. `gesisdata`: Reproducible Data Retrieval from the GESIS Data Archive. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=gesisdata}.
+
 \ind Solt, Frederick.  2017. `ukds`: Reproducible Data Retrieval from the UK Data Service. The Comprehensive R Archive Network (CRAN). [Archived.] \url{https://cran.r-project.org/src/contrib/Archive/ukds/}.
 
 \ind Solt, Frederick.  2017. `ropercenter`: Reproducible Data Retrieval from the Roper Center Data Archive. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=ropercenter}.
@@ -210,7 +223,7 @@ library("dplyr")
 
 \ind "How to Estimate Cross-Nationally and Longitudinally Comparable Measures of Public Opinion from the Mess of Survey Data You Found Online," ECPR Summer Methods School, Central European University, Budapest, Hungary, August 9, 2017.
 
-\ind "Economic Inequality and Campaign Participation,"  with Michael Ritter, Workshop on Political Participation and Political Inclusion, Universitat Aut\`onoma de Barcelona, June 8, 2017.
+\ind "Economic Inequality and Campaign Participation,"  with Michael Ritter, Workshop on Political Participation and Political Inclusion, Universitat Autònoma de Barcelona, June 8, 2017.
 
 \ind "Measuring Protest Across Countries and Over Time," American Political Science Association, Philadelphia, PA, September 1-4, 2016.
 
@@ -262,7 +275,6 @@ library("dplyr")
 
 \ind "Community Heterogeneity and Political Engagement," with Scott D. McClurg, American Political Science Association, Chicago, IL, August 30-September 2, 2007.
 
-\pagebreak
 \ind "Do Strong Commitments To Human Rights Promote Excessive Individualism, Ethical Egoism, Anti-Social Attitudes, and Political Disengagement?" with Donald Searing and Pamela Johnston Conover, American Political Science Association, Chicago, IL, August 30-September 2, 2007.
 
 \ind "The Social Origins of Authoritarianism: Economic Inequality and Political Culture Around the World," Midwest Political Science Association, Chicago, IL, April 12-15, 2007.
@@ -406,6 +418,7 @@ Reviewer for the National Science Foundation, European Research Council, \textit
 
 \ind Chair and Discussant, Political Sociology Section Roundtable on Public Opinion, American Sociological Association, San Francisco, CA, August 8-11, 2009.
 
+\pagebreak
 \ind Discussant, Panel on Political Participation in Comparative Perspective, Midwest Political Science Association, Chicago, IL, April 12-15, 2007.
 
 \ind Discussant, Panel on Democratic Equity and Economic Development, Midwest Political Science Association, Chicago, IL, April 20-23, 2006.
