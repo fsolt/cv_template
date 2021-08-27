@@ -78,7 +78,7 @@ library("dplyr")
 <!-- \vspace{-.25cm} -->
 # External Grants and Fellowships
 \vspace{-.65cm}
-\ind Senior Fellow, Cluster of Excellence "The Politics of Inequality," University of Konstanz, Summer 2021.
+\ind Senior Fellow, Cluster of Excellence "The Politics of Inequality," University of Konstanz, Summer 2022.
 
 \ind Collaborative Researcher, Korean Studies Promotion Service, Academy of Korean Studies, "Korea Inequality Research Lab," (Principal Investigator: Jong-sung You, Gachon University), December 2018 to December 2023.
 
@@ -121,7 +121,7 @@ library("dplyr")
 
 \ind Solt, Frederick.  2008.  "Economic Inequality and Democratic Political Engagement."  _American Journal of Political Science_ 52(1):48-60.
 
-\ind Searing, Donald, Frederick Solt, Pamela Johnston Conover, and Ivor Crewe.  2007.  "Public Discussion in the Deliberative System: Does It Make Better Citizens?"  _British Journal of Political Science_ 37(4):587-618.
+\ind Searing, Donald, Frederick Solt, Pamela Johnston Conover, and Ivor Crewe.  2007.  "Public Discussion in the Deliberative System: Does It Make Better Citizens?"  _British Journal of Political Science_ 37(4):587-618. Translated into Chinese and reprinted in Chen Jiagang and Yu Keping (eds), _Deliberative Democracy and Political Development_ (Beijing: Social Sciences Academic Press, 2009).
 
 \ind Huber, Evelyne, and Frederick Solt.  2004.  "Successes and Failures of Neoliberalism in Latin America."  _Latin American Research Review_ 39(3):150-164.
 
@@ -142,18 +142,22 @@ library("dplyr")
 
 # Selected Working Papers
 \vspace{-.65cm}
-\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion." Invited to revise and resubmit, _Political Analysis_.  https://osf.io/preprints/socarxiv/d5n9p/
+\ind Tai, Yuehong 'Cassandra', Hu Yue, and Frederick Solt, "Democracy, Public Support, and Measurement Uncertainty." Revised and resubmitted. [Preprint](https://github.com/fsolt/dcpo_dem_mood/blob/master/paper/dcpo_demsupport.pdf).
 
-\ind Tai, Yuehong 'Cassandra', Hu Yue, and Frederick Solt, "Public Support for Democracy and Regime Survival."
+\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion."  Invited to revise and resubmit.  [Preprint](https://osf.io/preprints/socarxiv/d5n9p/).
 
-\ind Solt, Frederick, Byung-Deuk Woo, and Lindsey Allemang, "The EGR Database: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles"
+\ind Byung-Deuk Woo, Lindsey Allemang, and Frederick Solt. "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere."  Under review.  [Preprint](https://github.com/fsolt/dcpo_gender_roles/blob/master/paper/dcpo_gender_roles.pdf).
 
-\ind Kim, Mi-son, and Frederick Solt.  "The Electoral Consequences of Party Relabeling."
+\ind Kim, Mi-son, and Frederick Solt.  "The Electoral Consequences of Party Relabeling."  In progress.
 
-\ind Solt, Frederick, and Rachel Torres.  "Income Inequality and Support for Labor Unions."
+\ind Solt, Frederick, and Rachel Torres.  "Income Inequality and Support for Labor Unions."  In progress.
 
 # Datasets
 \vspace{-.65cm}
+\ind Solt, Frederick. 2021. Standardized World Income Inequality Database, Version 9.1. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
+\ind Solt, Frederick. 2020. Standardized World Income Inequality Database, Version 9.0. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
 \ind Solt, Frederick. 2020. Standardized World Income Inequality Database, Version 8.3. \url{https://doi.org/10.7910/DVN/LM4OWF}
 
 \ind Solt, Frederick. 2019. Standardized World Income Inequality Database, Version 8.2. \url{https://doi.org/10.7910/DVN/LM4OWF}
@@ -362,11 +366,11 @@ Reviewer for the National Science Foundation, European Research Council, \textit
 
 \ind Lijphart/Przeworski/Verba Dataset Award Committee, Comparative Politics Section, American Political Science Association, 2016-2018.
 
-\ind Director of Graduate Studies, Department of Political Science, University of Iowa, 2019-Present.
-
-\ind Executive Committee, Department of Political Science, University of Iowa, 2019-Present.
-
 \ind Graduate Studies Committee, Department of Political Science, University of Iowa, 2012-Present.
+
+\ind Director of Graduate Studies, Department of Political Science, University of Iowa, 2019-2021.
+
+\ind Executive Committee, Department of Political Science, University of Iowa, 2019-2021.
 
 \ind Chair, Third-Year Review Committee, Department of Political Science, University of Iowa, Spring 2019.
 
