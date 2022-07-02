@@ -25,9 +25,6 @@ appointment:
         item: Associate Professor, Department of Political Science
         date: 2016–Present
       - 
-        item: Director of Graduate Studies, Department of Political Science
-        date: 2019-Present
-      - 
         item: Assistant Professor, Department of Political Science
         date: 2012-2016
   - 
@@ -91,6 +88,10 @@ library("dplyr")
 \vspace{-.2cm}
 # Refereed Publications
 \vspace{-.65cm}
+\ind Byung-Deuk Woo, Lindsey A. Goldberg, and Frederick Solt.  Forthcoming.  "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_. Preprint: \url{https://osf.io/preprints/socarxiv/37dq9/}.
+
+\ind Tai, Yuehong 'Cassandra', Hu Yue, and Frederick Solt.  Forthcoming.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_.  FirstView: \url{https://doi.org/10.1017/S0003055422000429}. Preprint: \url{https://osf.io/preprints/socarxiv/y5fdv/}. 
+
 \ind Solt, Frederick.  2020.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."  _Social Science Quarterly_ 101(3):1183-1199.
 
 \ind Ritter, Michael, and Frederick Solt.  2019.  "Economic Inequality and Campaign Participation."  _Social Science Quarterly_ 100(3):678-688.
@@ -137,16 +138,12 @@ library("dplyr")
  
 \ind Solt, Frederick.  2015.  "On the Assessment and Use of Cross-National Income Inequality Datasets."  _Journal of Economic Inequality_ 13(4):683-691.
 
-\pagebreak
 \ind Solt, Frederick. 2014.  "Version 5.0 of the Standardized World Income Inequality Database."  _APSA Comparative Politics Newsletter_ 24(2):18.
 
 # Selected Working Papers
 \vspace{-.65cm}
-\ind Tai, Yuehong 'Cassandra', Hu Yue, and Frederick Solt, "Democracy, Public Support, and Measurement Uncertainty." Revised and resubmitted. [Preprint](https://github.com/fsolt/dcpo_dem_mood/blob/master/paper/dcpo_demsupport.pdf).
 
-\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion."  Invited to revise and resubmit.  [Preprint](https://osf.io/preprints/socarxiv/d5n9p/).
-
-\ind Byung-Deuk Woo, Lindsey Allemang, and Frederick Solt. "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere."  Under review.  [Preprint](https://github.com/fsolt/dcpo_gender_roles/blob/master/paper/dcpo_gender_roles.pdf).
+\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion."  Invited to revise and resubmit to _Political Science Research & Methods_.  Preprint: \url{https://osf.io/preprints/socarxiv/d5n9p/}
 
 \ind Kim, Mi-son, and Frederick Solt.  "The Electoral Consequences of Party Relabeling."  In progress.
 
@@ -194,7 +191,6 @@ library("dplyr")
 
 \ind Solt, Frederick. 2008. Standardized World Income Inequality Database, Version 1.0. \url{http://hdl.handle.net/1902.1/11992}
 
-\pagebreak
 # Published Software
 \vspace{-.65cm}
 \ind Solt, Frederick.  2020. `DCPO`: Dynamic Comparative Public Opinion. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=DCPO}.
@@ -215,6 +211,12 @@ library("dplyr")
 
 # Conference Presentations and Invited Talks
 \vspace{-.65cm}
+\ind "Public Gender Egalitarianism and Women's Descriptive Representation," (with Byung-Deuk Woo), University of Konstanz Cluster of Excellence Politics of Inequality, Konstanz, Germany, July 5, 2022.
+
+\ind "Workflows for Doing Political Data Science," University of Konstanz Cluster of Excellence Politics of Inequality, Konstanz, Germany, June 30, 2022.
+
+\ind "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere," (with Byung-Deuk Woo and Lindsey A. Goldberg), Midwest Political Science Association Annual Meeting, Chicago, IL, Apr 7-10, 2022.
+
 \ind "Modeling Dynamic Comparative Public Opinion," Southern Political Science Association Annual Meeting, San Juan, PR, January 10-11, 2020.
 
 \ind "The Consequences of Party Relabeling," with Mi-son Kim, Southern Political Science Association Annual Meeting, San Juan, PR, January 10-11, 2020.
@@ -364,6 +366,8 @@ Reviewer for the National Science Foundation, European Research Council, \textit
 
 \ind Consultant to United Nations, Department of Economic and Social Affairs, 2013-2015.
 
+\ind Chair, Best Paper on Class and Inequality Award Committee, Class and Inequality Section, American Political Science Association, 2022.
+
 \ind Lijphart/Przeworski/Verba Dataset Award Committee, Comparative Politics Section, American Political Science Association, 2016-2018.
 
 \ind Graduate Studies Committee, Department of Political Science, University of Iowa, 2012-Present.
@@ -422,7 +426,6 @@ Reviewer for the National Science Foundation, European Research Council, \textit
 
 \ind Chair and Discussant, Political Sociology Section Roundtable on Public Opinion, American Sociological Association, San Francisco, CA, August 8-11, 2009.
 
-\pagebreak
 \ind Discussant, Panel on Political Participation in Comparative Perspective, Midwest Political Science Association, Chicago, IL, April 12-15, 2007.
 
 \ind Discussant, Panel on Democratic Equity and Economic Development, Midwest Political Science Association, Chicago, IL, April 20-23, 2006.
