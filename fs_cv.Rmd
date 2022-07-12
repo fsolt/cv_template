@@ -142,15 +142,21 @@ library("dplyr")
 
 # Selected Working Papers
 \vspace{-.65cm}
+\ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy."  Under review. Preprint: \url{https://osf.io/preprints/socarxiv/kd7mu/}
 
-\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion."  Invited to revise and resubmit to _Political Science Research & Methods_.  Preprint: \url{https://osf.io/preprints/socarxiv/d5n9p/}
+\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion." Preprint: \url{https://osf.io/preprints/socarxiv/d5n9p/}
 
-\ind Kim, Mi-son, and Frederick Solt.  "The Electoral Consequences of Party Relabeling."  In progress.
+\ind Woo, Byung-Deuk, and Frederick Solt. "Public Gender Egalitarianism and Women's Descriptive Representation."  In progress.
 
-\ind Solt, Frederick, and Rachel Torres.  "Income Inequality and Support for Labor Unions."  In progress.
 
 # Datasets
 \vspace{-.65cm}
+\ind Solt, Frederick. 2022. Standardized World Income Inequality Database, Version 9.3. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
+\ind Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2022. Public Gender Egalitarianism Database, Version 1.0.  \url{https://doi.org/10.7910/DVN/WF3USY}
+
+\ind Solt, Frederick. 2021. Standardized World Income Inequality Database, Version 9.2. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
 \ind Solt, Frederick. 2021. Standardized World Income Inequality Database, Version 9.1. \url{https://doi.org/10.7910/DVN/LM4OWF}
 
 \ind Solt, Frederick. 2020. Standardized World Income Inequality Database, Version 9.0. \url{https://doi.org/10.7910/DVN/LM4OWF}
