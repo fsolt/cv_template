@@ -92,7 +92,7 @@ library("dplyr")
 
 \ind Tai, Yuehong 'Cassandra', Hu Yue, and Frederick Solt.  Forthcoming.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_.  FirstView: \url{https://doi.org/10.1017/S0003055422000429}. Preprint: \url{https://osf.io/preprints/socarxiv/y5fdv/}. 
 
-\ind Solt, Frederick.  2020.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."  _Social Science Quarterly_ 101(3):1183-1199.
+\ind Solt, Frederick.  2020.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."  _Social Science Quarterly_ 101(3):1183-1199. \FiveStar \thinspace Winner, 2022 Charles Bonjean Award, Southwest Social Science Association.
 
 \ind Ritter, Michael, and Frederick Solt.  2019.  "Economic Inequality and Campaign Participation."  _Social Science Quarterly_ 100(3):678-688.
 
@@ -217,6 +217,8 @@ library("dplyr")
 
 # Conference Presentations and Invited Talks
 \vspace{-.65cm}
+\ind "Gender Egalitarian Politics in the Korean National Assembly," (with Byung-Deuk Woo), American Political Science Association Annual Meeting, Montreal, Canada, Sept 15-18, 2022.
+
 \ind "Public Gender Egalitarianism and Women's Descriptive Representation," (with Byung-Deuk Woo), University of Konstanz Cluster of Excellence Politics of Inequality, Konstanz, Germany, July 5, 2022.
 
 \ind "Workflows for Doing Political Data Science," University of Konstanz Cluster of Excellence Politics of Inequality, Konstanz, Germany, June 30, 2022.
@@ -317,6 +319,8 @@ American Studies Association, Washington, D.C., September 6-8, 2001.
 
 # Awards and Internal Grants
 \vspace{-.65cm}
+\ind Charles Bonjean Award, Southwest Social Science Association, 2022.
+
 \ind "Dynamic Comparative Public Opinion," PI, Political Science Department Small Grant, \$2500, Summer 2016.
 
 \ind "Updating the Standardized World Income Inequality Database," PI. Political Science Department Small Grant, \$2400, Summer 2015.
