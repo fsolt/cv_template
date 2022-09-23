@@ -90,7 +90,7 @@ library("dplyr")
 \vspace{-.65cm}
 \ind Byung-Deuk Woo, Lindsey A. Goldberg, and Frederick Solt.  Forthcoming.  "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_. Preprint: \url{https://osf.io/preprints/socarxiv/37dq9/}.
 
-\ind Tai, Yuehong 'Cassandra', Hu Yue, and Frederick Solt.  Forthcoming.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_.  FirstView: \url{https://doi.org/10.1017/S0003055422000429}. Preprint: \url{https://osf.io/preprints/socarxiv/y5fdv/}. 
+\ind Tai, Yuehong 'Cassandra', Yue Hu, and Frederick Solt.  Forthcoming.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_.  FirstView: \url{https://doi.org/10.1017/S0003055422000429}. Preprint: \url{https://osf.io/preprints/socarxiv/y5fdv/}. 
 
 \ind Solt, Frederick.  2020.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."  _Social Science Quarterly_ 101(3):1183-1199. \FiveStar \thinspace Winner, 2022 Charles Bonjean Award, Southwest Social Science Association.
 
