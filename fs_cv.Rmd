@@ -68,10 +68,6 @@ csl: /Users/fredsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with
 
 ---
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
-library("dplyr")
-```
-
 <!-- \vspace{-.25cm} -->
 # External Grants and Fellowships
 \vspace{-.65cm}
@@ -88,11 +84,11 @@ library("dplyr")
 \vspace{-.2cm}
 # Refereed Publications
 \vspace{-.65cm}
-\ind Byung-Deuk Woo, Lindsey A. Goldberg, and Frederick Solt.  Forthcoming.  "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_. Preprint: \url{https://osf.io/preprints/socarxiv/37dq9/}.
-
 \ind Tai, Yuehong 'Cassandra', Yue Hu, and Frederick Solt.  Forthcoming.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_.  FirstView: \url{https://doi.org/10.1017/S0003055422000429}. Preprint: \url{https://osf.io/preprints/socarxiv/y5fdv/}. 
 
-\ind Solt, Frederick.  2020.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."  _Social Science Quarterly_ 101(3):1183-1199. \FiveStar \thinspace Winner, 2022 Charles Bonjean Award, Southwest Social Science Association.
+\ind Byung-Deuk Woo, Lindsey A. Goldberg, and Frederick Solt.  2023.  "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_ 53(2):766-775.
+
+\ind Solt, Frederick.  2020.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."  _Social Science Quarterly_ 101(3):1183-1199. \FiveStar \thinspace Winner, 2022 Charles Bonjean Award, Southwest Social Science Association. `r fontawesome::fa("trophy")` Web of Science Highly Cited Paper, 2020-present.
 
 \ind Ritter, Michael, and Frederick Solt.  2019.  "Economic Inequality and Campaign Participation."  _Social Science Quarterly_ 100(3):678-688.
 
@@ -102,7 +98,7 @@ library("dplyr")
 
 \ind Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong `Erico' Yu.  2016. "Economic Inequality and Belief in Meritocracy in the United States." _Research \& Politics_ 3(4):1-7.
 
-\ind Solt, Frederick.  2016.  "The Standardized World Income Inequality Database."  _Social Science Quarterly_ 97(5):1267-1281.
+\ind Solt, Frederick.  2016.  "The Standardized World Income Inequality Database."  _Social Science Quarterly_ 97(5):1267-1281. `r fontawesome::fa("trophy")` Web of Science Highly Cited Paper, 2016-present.
 
 \ind Solt, Frederick.  2015.  "Economic Inequality and Nonviolent Protest."  _Social Science Quarterly_ 96(5):1314-1327.
 
@@ -118,9 +114,9 @@ library("dplyr")
 
 \ind Solt, Frederick.  2010.  "Does Economic Inequality Depress Electoral Participation? Testing the Schattschneider Hypothesis."  _Political Behavior_ 32(2):285-301.
 
-\ind Solt, Frederick.  2009.  "Standardizing the World Income Inequality Database."  _Social Science Quarterly_ 90(2):231-242.
+\ind Solt, Frederick.  2009.  "Standardizing the World Income Inequality Database."  _Social Science Quarterly_ 90(2):231-242. `r fontawesome::fa("trophy")` Web of Science Highly Cited Paper, 2012-2019.
 
-\ind Solt, Frederick.  2008.  "Economic Inequality and Democratic Political Engagement."  _American Journal of Political Science_ 52(1):48-60.
+\ind Solt, Frederick.  2008.  "Economic Inequality and Democratic Political Engagement."  _American Journal of Political Science_ 52(1):48-60. `r fontawesome::fa("trophy")` Web of Science Highly Cited Paper, 2012-2018.
 
 \ind Searing, Donald, Frederick Solt, Pamela Johnston Conover, and Ivor Crewe.  2007.  "Public Discussion in the Deliberative System: Does It Make Better Citizens?"  _British Journal of Political Science_ 37(4):587-618. Translated into Chinese and reprinted in Chen Jiagang and Yu Keping (eds), _Deliberative Democracy and Political Development_ (Beijing: Social Sciences Academic Press, 2009).
 
@@ -142,6 +138,10 @@ library("dplyr")
 
 # Selected Working Papers
 \vspace{-.65cm}
+\ind Solt, Frederick. "Macrointerest Across Countries."  Under review.  Preprint: \url{https://osf.io/preprints/socarxiv/nkgdy}
+
+\ind Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid."  Under review. Preprint: \url{https://osf.io/preprints/socarxiv/rym8g/}
+
 \ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy."  Under review. Preprint: \url{https://osf.io/preprints/socarxiv/kd7mu/}
 
 \ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion." Preprint: \url{https://osf.io/preprints/socarxiv/d5n9p/}
@@ -203,6 +203,8 @@ library("dplyr")
 
 \ind Solt, Frederick.  2020. `gesisdata`: Reproducible Data Retrieval from the GESIS Data Archive. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=gesisdata}.
 
+\ind Solt, Frederick, Yue Hu, and Yuehong Cassandra Tai. 2018. `DCPOtools`: Tools for Dynamic Comparative Public Opinion. \url{https://github.com/fsolt/DCPOtools}.
+
 \ind Solt, Frederick.  2017. `ukds`: Reproducible Data Retrieval from the UK Data Service. The Comprehensive R Archive Network (CRAN). [Archived.] \url{https://cran.r-project.org/src/contrib/Archive/ukds/}.
 
 \ind Solt, Frederick.  2017. `ropercenter`: Reproducible Data Retrieval from the Roper Center Data Archive. The Comprehensive R Archive Network (CRAN). \url{http://CRAN.R-project.org/package=ropercenter}.
@@ -217,6 +219,8 @@ library("dplyr")
 
 # Conference Presentations and Invited Talks
 \vspace{-.65cm}
+\ind "Public Gender Egalitarianism and Women’s Descriptive Representation: Korea’s Democracy in Global Perspective," (with Byung-Deuk Woo), Institute of Korean Studies, University of Missouri, Oct 26, 2022.
+
 \ind "Gender Egalitarian Politics in the Korean National Assembly," (with Byung-Deuk Woo), American Political Science Association Annual Meeting, Montreal, Canada, Sept 15-18, 2022.
 
 \ind "Public Gender Egalitarianism and Women's Descriptive Representation," (with Byung-Deuk Woo), University of Konstanz Cluster of Excellence Politics of Inequality, Konstanz, Germany, July 5, 2022.
@@ -446,6 +450,7 @@ Reviewer for the National Science Foundation, European Research Council, \textit
 
 \ind Public Lecture. "Economic Inequality and Its Political Causes and Consequences," Whiteside Forum, Morrison, IL, April 15, 2016.
 
+\pagebreak
 \ind Public Lecture, "Economic Inequality and Democratic Performance Around the World," Iowa City Downtown Rotary Club, Iowa City, IA, April 6, 2015.
 
 \ind Public Lecture, "Economic Inequality and Democratic Performance Around the World," Iowa City Foreign Relations Council, Iowa City, IA, September 26, 2013.
