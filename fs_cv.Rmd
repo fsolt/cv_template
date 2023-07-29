@@ -138,15 +138,17 @@ csl: /Users/fredsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with
 
 # Selected Working Papers
 \vspace{-.65cm}
-\ind Solt, Frederick. "Macrointerest Across Countries."  Under review.  Preprint: \url{https://osf.io/preprints/socarxiv/nkgdy}
+\ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy."  Revised and resubmitted. Preprint: \url{https://osf.io/preprints/socarxiv/kd7mu/}
+
+\ind Hu, Yue, and Frederick Solt. "Macrointerest Across Countries."  Revising for resubmission.  Preprint: \url{https://osf.io/preprints/socarxiv/nkgdy}
 
 \ind Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid."  Under review. Preprint: \url{https://osf.io/preprints/socarxiv/rym8g/}
 
-\ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy."  Under review. Preprint: \url{https://osf.io/preprints/socarxiv/kd7mu/}
+\ind Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time."  Under review.  Preprint: \url{https://osf.io/preprints/socarxiv/74hym/}
 
 \ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion." Preprint: \url{https://osf.io/preprints/socarxiv/d5n9p/}
 
-\ind Woo, Byung-Deuk, and Frederick Solt. "Public Gender Egalitarianism and Women's Descriptive Representation."  In progress.
+\ind Woo, Byung-Deuk, and Frederick Solt. "Gender Egalitarianism and Gender Equality: How Public Opinion Shapes Politics and Policy in Global Perspective."  Book manuscript in progress.
 
 
 # Datasets
@@ -450,7 +452,6 @@ Reviewer for the National Science Foundation, European Research Council, \textit
 
 \ind Public Lecture. "Economic Inequality and Its Political Causes and Consequences," Whiteside Forum, Morrison, IL, April 15, 2016.
 
-\pagebreak
 \ind Public Lecture, "Economic Inequality and Democratic Performance Around the World," Iowa City Downtown Rotary Club, Iowa City, IA, April 6, 2015.
 
 \ind Public Lecture, "Economic Inequality and Democratic Performance Around the World," Iowa City Foreign Relations Council, Iowa City, IA, September 26, 2013.
