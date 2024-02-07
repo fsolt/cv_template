@@ -63,17 +63,17 @@ education:
     place: "Princeton University, Department of Mechanical and Aerospace Engineering"
     date: 1994
 
-bibliography: /Users/fredsolt/Library/texmf/bibtex/bib/MELibrary.bib
-csl: /Users/fredsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ibid.csl
+bibliography: /Users/fsolt/Library/texmf/bibtex/bib/MELibrary.bib
+csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ibid.csl
 
 ---
 
 <!-- \vspace{-.25cm} -->
 # External Grants and Fellowships
 \vspace{-.65cm}
-\ind Senior Fellow, Cluster of Excellence "The Politics of Inequality," University of Konstanz, Summer 2022.
+\ind Collaborative Researcher, Korean Studies Promotion Service, Academy of Korean Studies, "Korea Inequality Research Lab," (Principal Investigator: Jong-sung You, Gachon University), December 2018 to December 2024.
 
-\ind Collaborative Researcher, Korean Studies Promotion Service, Academy of Korean Studies, "Korea Inequality Research Lab," (Principal Investigator: Jong-sung You, Gachon University), December 2018 to December 2023.
+\ind Senior Fellow, Cluster of Excellence "The Politics of Inequality," University of Konstanz, Summer 2022.
 
 \ind Principal Investigator, National Science Foundation (SES-1533746) Grant Award of \$228,809.00 to the University of Iowa, "Standardized World Income Inequality Database," August 2015 to July 2019.
 
@@ -84,7 +84,9 @@ csl: /Users/fredsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with
 \vspace{-.2cm}
 # Refereed Publications
 \vspace{-.65cm}
-\ind Tai, Yuehong 'Cassandra', Yue Hu, and Frederick Solt.  Forthcoming.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_.  FirstView: \url{https://doi.org/10.1017/S0003055422000429}. Preprint: \url{https://osf.io/preprints/socarxiv/y5fdv/}. 
+\ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming.  "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?" _Political Science Research and Methods_.
+
+\ind Tai, Yuehong 'Cassandra', Yue Hu, and Frederick Solt.  2024.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_ 118(1):512-518. 
 
 \ind Byung-Deuk Woo, Lindsey A. Goldberg, and Frederick Solt.  2023.  "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_ 53(2):766-775.
 
@@ -138,13 +140,13 @@ csl: /Users/fredsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with
 
 # Selected Working Papers
 \vspace{-.65cm}
-\ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy."  Revised and resubmitted. Preprint: \url{https://osf.io/preprints/socarxiv/kd7mu/}
-
-\ind Hu, Yue, and Frederick Solt. "Macrointerest Across Countries."  Revising for resubmission.  Preprint: \url{https://osf.io/preprints/socarxiv/nkgdy}
+\ind Hu, Yue, and Frederick Solt. "Macrointerest Across Countries."  Revised and resubmitted.  Preprint: \url{https://osf.io/preprints/socarxiv/nkgdy}
 
 \ind Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid."  Under review. Preprint: \url{https://osf.io/preprints/socarxiv/rym8g/}
 
 \ind Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time."  Under review.  Preprint: \url{https://osf.io/preprints/socarxiv/74hym/}
+
+\ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy." Preprint: \url{https://osf.io/preprints/socarxiv/kd7mu/}
 
 \ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion." Preprint: \url{https://osf.io/preprints/socarxiv/d5n9p/}
 
@@ -153,6 +155,12 @@ csl: /Users/fredsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with
 
 # Datasets
 \vspace{-.65cm}
+\ind Solt, Frederick. 2023. Standardized World Income Inequality Database, Version 9.6. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
+\ind Solt, Frederick. 2023. Standardized World Income Inequality Database, Version 9.5. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
+\ind Solt, Frederick. 2022. Standardized World Income Inequality Database, Version 9.4. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
 \ind Solt, Frederick. 2022. Standardized World Income Inequality Database, Version 9.3. \url{https://doi.org/10.7910/DVN/LM4OWF}
 
 \ind Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2022. Public Gender Egalitarianism Database, Version 1.0.  \url{https://doi.org/10.7910/DVN/WF3USY}
@@ -325,6 +333,8 @@ American Studies Association, Washington, D.C., September 6-8, 2001.
 
 # Awards and Internal Grants
 \vspace{-.65cm}
+\ind P3 Post-Tenure Faculty Support Grant, University of Iowa, Spring 2023.
+
 \ind Charles Bonjean Award, Southwest Social Science Association, 2022.
 
 \ind "Dynamic Comparative Public Opinion," PI, Political Science Department Small Grant, \$2500, Summer 2016.
@@ -385,6 +395,10 @@ Reviewer for the National Science Foundation, European Research Council, \textit
 \ind Chair, Best Paper on Class and Inequality Award Committee, Class and Inequality Section, American Political Science Association, 2022.
 
 \ind Lijphart/Przeworski/Verba Dataset Award Committee, Comparative Politics Section, American Political Science Association, 2016-2018.
+
+\ind Faculty Senate, University of Iowa, 2023-Present.
+
+\ind Faculty Assembly, College of Liberal Arts and Sciences, University of Iowa, 2023-Present.
 
 \ind Graduate Studies Committee, Department of Political Science, University of Iowa, 2012-Present.
 
