@@ -22,8 +22,11 @@ appointment:
     place: University of Iowa
     items:
       - 
+        item: Professor, Department of Political Science
+        date: 2024-Present
+      - 
         item: Associate Professor, Department of Political Science
-        date: 2016–Present
+        date: 2016–2024
       - 
         item: Assistant Professor, Department of Political Science
         date: 2012-2016
@@ -84,10 +87,13 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 \vspace{-.2cm}
 # Refereed Publications
 \vspace{-.65cm}
+\ind Hu, Yue, and Frederick Solt. Forthcoming. "Macrointerest Across Countries."  _British Journal of Political Science_.
+
 \ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming.  "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?" _Political Science Research and Methods_.
 
 \ind Tai, Yuehong 'Cassandra', Yue Hu, and Frederick Solt.  2024.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_ 118(1):512-518. 
 
+\pagebreak
 \ind Byung-Deuk Woo, Lindsey A. Goldberg, and Frederick Solt.  2023.  "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_ 53(2):766-775.
 
 \ind Solt, Frederick.  2020.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."  _Social Science Quarterly_ 101(3):1183-1199. \FiveStar \thinspace Winner, 2022 Charles Bonjean Award, Southwest Social Science Association. `r fontawesome::fa("trophy")` Web of Science Highly Cited Paper, 2020-present.
@@ -140,11 +146,11 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 
 # Selected Working Papers
 \vspace{-.65cm}
-\ind Hu, Yue, and Frederick Solt. "Macrointerest Across Countries."  Revised and resubmitted.  Preprint: \url{https://osf.io/preprints/socarxiv/nkgdy}
+\ind Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid."  Revise and resubmit. Preprint: \url{https://osf.io/preprints/socarxiv/rym8g/}
 
-\ind Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid."  Under review. Preprint: \url{https://osf.io/preprints/socarxiv/rym8g/}
+\ind Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Public Support for Gay Rights Across Countries and Over Time."  Revise and resubmit.  Preprint: \url{https://osf.io/preprints/socarxiv/74hym}
 
-\ind Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time."  Under review.  Preprint: \url{https://osf.io/preprints/socarxiv/74hym/}
+\ind Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Public Political Discontent." Under review.
 
 \ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy." Preprint: \url{https://osf.io/preprints/socarxiv/kd7mu/}
 
