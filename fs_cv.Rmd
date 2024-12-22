@@ -26,7 +26,7 @@ appointment:
         date: 2024-Present
       - 
         item: Associate Professor, Department of Political Science
-        date: 2016–2024
+        date: 2016-2024
       - 
         item: Assistant Professor, Department of Political Science
         date: 2012-2016
@@ -87,30 +87,33 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 \vspace{-.2cm}
 # Refereed Publications
 \vspace{-.65cm}
+\ind *denotes graduate student co-author
+
+\ind Woo, Byung-Deuk, Hyein Ko,* Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. "Public Support for Gay Rights Across Countries and Over Time."  _Social Science Quarterly_.
+
 \ind Hu, Yue, and Frederick Solt. Forthcoming. "Macrointerest Across Countries."  _British Journal of Political Science_.
 
 \ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming.  "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?" _Political Science Research and Methods_.
 
-\ind Tai, Yuehong 'Cassandra', Yue Hu, and Frederick Solt.  2024.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_ 118(1):512-518. 
+\ind Tai, Yuehong 'Cassandra',* Yue Hu, and Frederick Solt.  2024.  "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_ 118(1):512-518. 
 
-\pagebreak
-\ind Byung-Deuk Woo, Lindsey A. Goldberg, and Frederick Solt.  2023.  "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_ 53(2):766-775.
+\ind Byung-Deuk Woo,* Lindsey A. Goldberg,* and Frederick Solt.  2023.  "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_ 53(2):766-775.
 
 \ind Solt, Frederick.  2020.  "Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database."  _Social Science Quarterly_ 101(3):1183-1199. \FiveStar \thinspace Winner, 2022 Charles Bonjean Award, Southwest Social Science Association. `r fontawesome::fa("trophy")` Web of Science Highly Cited Paper, 2020-present.
 
-\ind Ritter, Michael, and Frederick Solt.  2019.  "Economic Inequality and Campaign Participation."  _Social Science Quarterly_ 100(3):678-688.
+\ind Ritter, Michael,* and Frederick Solt.  2019.  "Economic Inequality and Campaign Participation."  _Social Science Quarterly_ 100(3):678-688.
 
-\ind Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong `Erico' Yu.  2017. "Economic Inequality and Class Consciousness." _Journal of Politics_ 79(3):1079-1083.
+\ind Solt, Frederick, Yue Hu,* Kevan Hudson,* Jungmin Song,* and Dong 'Erico' Yu.*  2017. "Economic Inequality and Class Consciousness." _Journal of Politics_ 79(3):1079-1083.
 
-\ind Kim, Mi-son, and Frederick Solt.  2017.  "The Dynamics of Party Relabeling: Why Do Parties Change Names?"  _Party Politics_ 23(4):437-447.
+\ind Kim, Mi-son,* and Frederick Solt.  2017.  "The Dynamics of Party Relabeling: Why Do Parties Change Names?"  _Party Politics_ 23(4):437-447.
 
-\ind Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong `Erico' Yu.  2016. "Economic Inequality and Belief in Meritocracy in the United States." _Research \& Politics_ 3(4):1-7.
+\ind Solt, Frederick, Yue Hu,* Kevan Hudson,* Jungmin Song,* and Dong `Erico' Yu.*  2016. "Economic Inequality and Belief in Meritocracy in the United States." _Research \& Politics_ 3(4):1-7.
 
 \ind Solt, Frederick.  2016.  "The Standardized World Income Inequality Database."  _Social Science Quarterly_ 97(5):1267-1281. `r fontawesome::fa("trophy")` Web of Science Highly Cited Paper, 2016-present.
 
 \ind Solt, Frederick.  2015.  "Economic Inequality and Nonviolent Protest."  _Social Science Quarterly_ 96(5):1314-1327.
 
-\ind Solt, Frederick, Dongkyu Kim, Kyu Young Lee, Spencer Williardson, and Seokdong Kim.  2014.  "Neoliberal Reform and Protest in Latin American Democracies: A Replication and Correction."  _Research \& Politics_ 1(2):1-13.
+\ind Solt, Frederick, Dongkyu Kim,* Kyu Young Lee,* Spencer Williardson,* and Seokdong Kim.*  2014.  "Neoliberal Reform and Protest in Latin American Democracies: A Replication and Correction."  _Research \& Politics_ 1(2):1-13.
 
 \ind Solt, Frederick.  2014.  "Reversing the Arrow? Economic Inequality's Effect on Religiosity."  In _Religion and Inequality in America: Research and Theory on Religion's Role in Stratification_, Lisa Keister and Darren Sherkat, eds., Cambridge: Cambridge University Press.
 
@@ -138,7 +141,7 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 
 # Invited Publications
 \vspace{-.65cm}
-\ind Gracey, Kellen, and Frederick Solt.  2017.  "Religion and Politics." SAGE Handbook of Political Behavior. Thousand Oaks, CA: Sage Publications, pp.703-704.
+\ind Gracey, Kellen,* and Frederick Solt.  2017.  "Religion and Politics." SAGE Handbook of Political Behavior. Thousand Oaks, CA: Sage Publications, pp.703-704.
  
 \ind Solt, Frederick.  2015.  "On the Assessment and Use of Cross-National Income Inequality Datasets."  _Journal of Economic Inequality_ 13(4):683-691.
 
@@ -146,21 +149,24 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 
 # Selected Working Papers
 \vspace{-.65cm}
-\ind Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid."  Revise and resubmit. Preprint: \url{https://osf.io/preprints/socarxiv/rym8g/}
 
-\ind Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Public Support for Gay Rights Across Countries and Over Time."  Revise and resubmit.  Preprint: \url{https://osf.io/preprints/socarxiv/74hym}
+\ind Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. "Macrodiscontent Across Countries." Under review. Preprint: \url{https://osf.io/preprints/socarxiv/z9a3n}
 
-\ind Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Public Political Discontent." Under review.
+\ind Chrisendo, Daniel, Venla Niva, Roman Hoffmann, Sina Masoumzadeh Sayyar, Juan Rocha, Vilma Sandström, Frederick Solt, and Matti Kummu. 2024. "Income Inequality Has Increased For Over Two-Thirds of the Global Population." Under review. Preprint: \url{https://www.researchsquare.com/article/rs-5548291/v1}
 
-\ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy." Preprint: \url{https://osf.io/preprints/socarxiv/kd7mu/}
+\ind Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2024. "An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support." Revise and resubmit. Preprint: \url{https://osf.io/preprints/socarxiv/rym8g/}
 
-\ind Solt, Frederick.  "Modeling Dynamic Comparative Public Opinion." Preprint: \url{https://osf.io/preprints/socarxiv/d5n9p/}
+\ind Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy." Preprint: \url{https://osf.io/preprints/socarxiv/kd7mu/}
 
-\ind Woo, Byung-Deuk, and Frederick Solt. "Gender Egalitarianism and Gender Equality: How Public Opinion Shapes Politics and Policy in Global Perspective."  Book manuscript in progress.
+\ind Solt, Frederick. 2020. "Modeling Dynamic Comparative Public Opinion." Preprint: \url{https://osf.io/preprints/socarxiv/d5n9p/}
+
+\ind Woo, Byung-Deuk, and Frederick Solt. "Macroegalitarianism: Gender Equality, Public Opinion, and Dynamic Democracy in Comparative Perspective."  Book manuscript in progress.
 
 
 # Datasets
 \vspace{-.65cm}
+\ind Solt, Frederick. 2024. Standardized World Income Inequality Database, Version 9.7. \url{https://doi.org/10.7910/DVN/LM4OWF}
+
 \ind Solt, Frederick. 2023. Standardized World Income Inequality Database, Version 9.6. \url{https://doi.org/10.7910/DVN/LM4OWF}
 
 \ind Solt, Frederick. 2023. Standardized World Income Inequality Database, Version 9.5. \url{https://doi.org/10.7910/DVN/LM4OWF}
@@ -169,6 +175,7 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 
 \ind Solt, Frederick. 2022. Standardized World Income Inequality Database, Version 9.3. \url{https://doi.org/10.7910/DVN/LM4OWF}
 
+\pagebreak
 \ind Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2022. Public Gender Egalitarianism Database, Version 1.0.  \url{https://doi.org/10.7910/DVN/WF3USY}
 
 \ind Solt, Frederick. 2021. Standardized World Income Inequality Database, Version 9.2. \url{https://doi.org/10.7910/DVN/LM4OWF}
@@ -235,19 +242,21 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 
 # Conference Presentations and Invited Talks
 \vspace{-.65cm}
-\ind "Public Gender Egalitarianism and Women’s Descriptive Representation: Korea’s Democracy in Global Perspective," (with Byung-Deuk Woo), Institute of Korean Studies, University of Missouri, Oct 26, 2022.
+\ind "Macrodiscontent Across Countries" (with Haofeng Ma, Jeongho Choi, Yuehong Cassandra Tai, and Yue Hu). Southern Political Science Association Annual Meeting, San Juan, Puerto Rico, Jan 8-11, 2025. 
 
-\ind "Gender Egalitarian Politics in the Korean National Assembly," (with Byung-Deuk Woo), American Political Science Association Annual Meeting, Montreal, Canada, Sept 15-18, 2022.
+\ind "Public Gender Egalitarianism and Women’s Descriptive Representation: Korea’s Democracy in Global Perspective" (with Byung-Deuk Woo), Institute of Korean Studies, University of Missouri, Oct 26, 2022.
+
+\ind "Gender Egalitarian Politics in the Korean National Assembly" (with Byung-Deuk Woo), American Political Science Association Annual Meeting, Montreal, Canada, Sept 15-18, 2022.
 
 \ind "Public Gender Egalitarianism and Women's Descriptive Representation," (with Byung-Deuk Woo), University of Konstanz Cluster of Excellence Politics of Inequality, Konstanz, Germany, July 5, 2022.
 
 \ind "Workflows for Doing Political Data Science," University of Konstanz Cluster of Excellence Politics of Inequality, Konstanz, Germany, June 30, 2022.
 
-\ind "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere," (with Byung-Deuk Woo and Lindsey A. Goldberg), Midwest Political Science Association Annual Meeting, Chicago, IL, Apr 7-10, 2022.
+\ind "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere" (with Byung-Deuk Woo and Lindsey A. Goldberg), Midwest Political Science Association Annual Meeting, Chicago, IL, Apr 7-10, 2022.
 
 \ind "Modeling Dynamic Comparative Public Opinion," Southern Political Science Association Annual Meeting, San Juan, PR, January 10-11, 2020.
 
-\ind "The Consequences of Party Relabeling," with Mi-son Kim, Southern Political Science Association Annual Meeting, San Juan, PR, January 10-11, 2020.
+\ind "The Consequences of Party Relabeling" (with Mi-son Kim), Southern Political Science Association Annual Meeting, San Juan, PR, January 10-11, 2020.
 
 \ind "The Standardized World Income Inequality Database: The Korean Case," Korea Inequality Research Lab Annual Workshop, Seoul, South Korea, August 26, 2019.
 
@@ -257,7 +266,8 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 
 \ind "How to Estimate Cross-Nationally and Longitudinally Comparable Measures of Public Opinion from the Mess of Survey Data You Found Online," ECPR Summer Methods School, Central European University, Budapest, Hungary, August 9, 2017.
 
-\ind "Economic Inequality and Campaign Participation,"  with Michael Ritter, Workshop on Political Participation and Political Inclusion, Universitat Autònoma de Barcelona, June 8, 2017.
+\pagebreak
+\ind "Economic Inequality and Campaign Participation" (with Michael Ritter), Workshop on Political Participation and Political Inclusion, Universitat Autònoma de Barcelona, June 8, 2017.
 
 \ind "Measuring Protest Across Countries and Over Time," American Political Science Association, Philadelphia, PA, September 1-4, 2016.
 
@@ -277,15 +287,15 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 
 \ind "Dynamic Comparative Public Opinion," European Political Science Association, Edinburgh, UK, June 18-22, 2014.
 
-\ind "The Dynamics of Party Relabeling: Why Do Parties Change Names?" with Mi-son Kim, Midwest Political Science Association, Chicago, IL, April 3-6, 2014.
+\ind "The Dynamics of Party Relabeling: Why Do Parties Change Names?" (with Mi-son Kim), Midwest Political Science Association, Chicago, IL, April 3-6, 2014.
 
-\ind "Free Trade and Working Class Political Attitudes: A Micro-Analysis of Power Resources and Revisionist Theories," with Dongkyu Kim and Mi-son Kim, Midwest Political Science Association, Chicago, IL, April 3-6, 2014.
+\ind "Free Trade and Working Class Political Attitudes: A Micro-Analysis of Power Resources and Revisionist Theories" (with Dongkyu Kim and Mi-son Kim), Midwest Political Science Association, Chicago, IL, April 3-6, 2014.
 
-\ind "Economic Inequality and Campaign Participation," with Michael Ritter, Iowa Workshop on Inequality, Politics, and Policy, Iowa City, IA, February 20-21, 2014. 
+\ind "Economic Inequality and Campaign Participation" (with Michael Ritter), Iowa Workshop on Inequality, Politics, and Policy, Iowa City, IA, February 20-21, 2014. 
 
 \ind "The Standardized World Income Inequality Database," United Nations Department of Economic and Social Affairs, New York, NY, September 18, 2013.
 
-\ind "Economic Inequality and External Efficacy: Citizen Perceptions of Government Responsiveness in Comparative Perspective," with Scott D. McClurg, Midwest Political Science Association, Chicago, IL, April 10-14, 2013. 
+\ind "Economic Inequality and External Efficacy: Citizen Perceptions of Government Responsiveness in Comparative Perspective" (with Scott D. McClurg), Midwest Political Science Association, Chicago, IL, April 10-14, 2013. 
 
 \ind "Economic Inequality and Democratic Responsiveness," Oxford University, Oxford, UK, February 26, 2013.
 
@@ -295,7 +305,7 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 
 \ind "Relative Power, Public Opinion, and Democratic Policy Responsiveness," Center for the Study of Democratic Politics, Princeton, NJ, April 21, 2011.
 
-\ind "Economic Inequality, Relative Power, and the Politics of Abortion in Comparative Perspective," with Merike Blofield, Midwest Political Science Association, Chicago, IL, March 31-April 3, 2011.
+\ind "Economic Inequality, Relative Power, and the Politics of Abortion in Comparative Perspective" (with Merike Blofield), Midwest Political Science Association, Chicago, IL, March 31-April 3, 2011.
 
 \ind Participant, Workshop on the Connection Between Economic Crisis and Inequality, Princeton Institute for International and Regional Studies, Princeton, NJ, March 5-6, 2011.
 
@@ -305,11 +315,11 @@ csl: /Users/fsolt/Library/texmf/bibtex/csl/chicago-fullnote-bibliography-with-ib
 
 \ind "Diversionary Nationalism: Economic Inequality and the Formation of National Pride," American Sociological Association, Boston, MA, August 1-4, 2008.
 
-\ind "Gendering Relative Power: Intersectionality and Political Engagement in the Advanced Democracies," with Celeste Montoya, Western Political Science Association, San Diego, CA, March 20-22, 2008.
+\ind "Gendering Relative Power: Intersectionality and Political Engagement in the Advanced Democracies" (with Celeste Montoya), Western Political Science Association, San Diego, CA, March 20-22, 2008.
 
-\ind "Community Heterogeneity and Political Engagement," with Scott D. McClurg, American Political Science Association, Chicago, IL, August 30-September 2, 2007.
+\ind "Community Heterogeneity and Political Engagement" (with Scott D. McClurg), American Political Science Association, Chicago, IL, August 30-September 2, 2007.
 
-\ind "Do Strong Commitments To Human Rights Promote Excessive Individualism, Ethical Egoism, Anti-Social Attitudes, and Political Disengagement?" with Donald Searing and Pamela Johnston Conover, American Political Science Association, Chicago, IL, August 30-September 2, 2007.
+\ind "Do Strong Commitments To Human Rights Promote Excessive Individualism, Ethical Egoism, Anti-Social Attitudes, and Political Disengagement?" (with Donald Searing and Pamela Johnston Conover), American Political Science Association, Chicago, IL, August 30-September 2, 2007.
 
 \ind "The Social Origins of Authoritarianism: Economic Inequality and Political Culture Around the World," Midwest Political Science Association, Chicago, IL, April 12-15, 2007.
 
@@ -337,6 +347,7 @@ American Studies Association, Washington, D.C., September 6-8, 2001.
 \ind "_La Apertura_: The Opening of the Venezuelan Oil Industry to Foreign Investment in the 1990s," Institute of Latin American Studies Student Association, Austin, TX, February 
 27-28, 1998. 
 
+\pagebreak
 # Awards and Internal Grants
 \vspace{-.65cm}
 \ind P3 Post-Tenure Faculty Support Grant, University of Iowa, Spring 2023.
@@ -405,6 +416,8 @@ Reviewer for the National Science Foundation, European Research Council, \textit
 \ind Faculty Senate, University of Iowa, 2023-Present.
 
 \ind Faculty Assembly, College of Liberal Arts and Sciences, University of Iowa, 2023-Present.
+
+\ind Placement Director, Department of Political Science, University of Iowa, 2023-Present.
 
 \ind Graduate Studies Committee, Department of Political Science, University of Iowa, 2012-Present.
 
